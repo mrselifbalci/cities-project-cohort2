@@ -1,1 +1,1 @@
-Don't forget to run npm install in terminal before starting
+Don't forget to run 'npm install' in terminal before starting
